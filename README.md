@@ -1,4 +1,5 @@
 # Csharpe-skills
-<h2> Atividades e anotacoes sobre C#.</br>
- - Projetos com Linq e alguns teste com ele </br>
- - Fundamentos de C#, com projetos simples e anotacoes sobre principais temas e objetos
+# Csharpe-skills
+Aqui estão algumas anotações sobre algumas materias fundamentais para back end em .net
+- Fundamentos
+- Linq
